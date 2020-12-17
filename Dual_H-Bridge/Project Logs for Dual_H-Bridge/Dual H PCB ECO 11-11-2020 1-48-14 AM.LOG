@@ -1,0 +1,19 @@
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component C1 Cap
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component C2 Cap
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component C3 Cap
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component C4 Cap
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D1 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D2 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D3 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D4 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D5 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D6 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D7 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component D8 Diode 1N4007
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component J1 282847-3
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component J2 282847-3
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component J3 282847-3
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component J4 282847-2
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component J5 282847-2
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component U1 LM2940CT-5.0
+Added Member To Class: ClassName=Dual_H-Bridge Member=Component U L298N
